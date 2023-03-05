@@ -1,0 +1,42 @@
+body {
+  background-image: url(./src/img/fondo-estrellas.jpg);
+}
+#logo {
+  width: 60px;
+}
+#carouselMovies {
+  width: 400px;
+  margin: 0 auto;
+}
+#carouselMoviesExtras {
+  width: 400px;
+  margin: 0 auto;
+}
+h2 {
+  color: white;
+  margin-bottom: 50px;
+}
+#container-sinopsis {
+  width: 900px;
+}
+#sinopsis {
+  margin-top: 40px;
+  color: white;
+  text-align: justify;
+  margin-bottom: 40px;
+}
+#container-sinopsis > img {
+  margin-top: 50px;
+}
+table {
+  margin: auto;
+}
+footer {
+  text-align: center;
+  height: 100px;
+  color: white;
+  padding-top: 70px;
+}
+.carousel-item >img{
+  border-radius: 15px;
+}
